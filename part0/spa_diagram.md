@@ -23,5 +23,5 @@ deactivate server
     server-->>browser: [{ "content": "DINA ASESINA", "date": "2025-05-02T04:04:03.322Z"" }, ... ]
     deactivate server
 
-
 ```
+
